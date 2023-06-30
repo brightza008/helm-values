@@ -22,6 +22,6 @@ ingress:
   hosts:
     - host: app1.2c45fa93a1e94e98aa69.southeastasia.aksapp.io
       paths:
-        - path: /
+        - path: /poc-github-action
           pathType: ImplementationSpecific
   tls: []
